@@ -1,0 +1,9 @@
+Performance Evaluation of Ultra-Wideband Vivaldi Antenna Arrays with Emphasis on Grating Lobes, and Mutual Coupling 
+Abstract— Ultra-wideband (UWB) antennas find extensive use in various wireless communication and radar systems. 
+They offer wide bandwidth and constant radiation characteristics.
+ In this paper, the performance evaluation of Vivaldi antenna arrays at 6 GHz is carried out using MATLAB Antenna Toolbox.
+ Various antenna parameters, including VSWR, radiation pattern, input impedance, mutual coupling, and grating lobes, have been investigated for various antenna array sizes and interelement spacings.
+ It has been found that when the spacing is 0.8λ, grating lobes do not occur, and VSWR is below 2. 
+However, if the spacing is increased, grating lobes occur. 
+It has also been found that by increasing the number of antenna elements, the antenna gain and directivity can be increased, but at the same time, mutual coupling is increased. 
+. It has been found that Vivaldi antenna arrays offer optimal performance.
